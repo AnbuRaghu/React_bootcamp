@@ -12,6 +12,10 @@ function App() {
     return (
         <div className="contacts">
         
+        
+        
+        
+        
             <div className="contact-card">
                 <img src="./images/mr-whiskerson.png"/>
                 <h3>Mr. Whiskerson</h3>
